@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58127ad1-b3e3-4f48-a360-41290209d216" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14 Data Structure Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14 Data Structure Programs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/MyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/linkedlist/MyNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/linkedlist/MyNodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/linkedlist/MyNodeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit3 Test Class" />
       </list>
@@ -41,22 +39,64 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.linkedlist" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.linkedlist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyLinkedListTest">
+    <configuration name="MyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day 14 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day 14 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyNodeTest.given3NumbersWhenLinkedShouldPassedLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day 14 Data Structure Programs" />
       <extension name="coverage">
@@ -75,6 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyLinkedListTest" />
+        <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
         <item itemvalue="JUnit.MyNodeTest.given3NumbersWhenLinkedShouldPassedLinkedListTest" />
       </list>
     </recent_temporary>

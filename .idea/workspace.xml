@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58127ad1-b3e3-4f48-a360-41290209d216" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/linkedlist/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/linkedlist/MyLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <recent name="com.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyLinkedListTest">
+  <component name="RunManager" selected="JUnit.MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast">
     <configuration name="MyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day 14 Data Structure Programs" />
       <extension name="coverage">
@@ -97,6 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day 14 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="given3NumbersWhenAppendedShouldBeAddedToLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyNodeTest.given3NumbersWhenLinkedShouldPassedLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day 14 Data Structure Programs" />
       <extension name="coverage">
@@ -115,8 +134,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyLinkedListTest" />
+        <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast" />
         <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
+        <item itemvalue="JUnit.MyLinkedListTest" />
         <item itemvalue="JUnit.MyNodeTest.given3NumbersWhenLinkedShouldPassedLinkedListTest" />
       </list>
     </recent_temporary>

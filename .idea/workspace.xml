@@ -68,7 +68,7 @@
       <recent name="com.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast">
+  <component name="RunManager" selected="JUnit.MyLinkedListTest.given3NumbersWhenInsertingSecondInBetweenShouldPassLinkedListResult">
     <configuration name="MyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day 14 Data Structure Programs" />
       <extension name="coverage">
@@ -116,6 +116,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyLinkedListTest.given3NumbersWhenInsertingSecondInBetweenShouldPassLinkedListResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day 14 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="given3NumbersWhenInsertingSecondInBetweenShouldPassLinkedListResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyNodeTest.given3NumbersWhenLinkedShouldPassedLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day 14 Data Structure Programs" />
       <extension name="coverage">
@@ -134,6 +150,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenInsertingSecondInBetweenShouldPassLinkedListResult" />
         <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast" />
         <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
         <item itemvalue="JUnit.MyLinkedListTest" />

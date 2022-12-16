@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58127ad1-b3e3-4f48-a360-41290209d216" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/linkedlist/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/linkedlist/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/linkedlist/MyLinkedListTest.java" afterDir="false" />
     </list>
@@ -66,39 +67,7 @@
       <recent name="com.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyLinkedListTest.givenLastElementWhenDeletedShouldPssLinkedListResult">
-    <configuration name="MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day 14 Data Structure Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
-      <option name="METHOD_NAME" value="given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day 14 Data Structure Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
-      <option name="METHOD_NAME" value="given3NumbersWhenAppendedShouldBeAddedToLast" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MyLinkedListTest.givenSearchElementShouldPassLinkedListResult">
     <configuration name="MyLinkedListTest.given3NumbersWhenInsertingSecondInBetweenShouldPassLinkedListResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Day 14 Data Structure Programs" />
       <extension name="coverage">
@@ -147,13 +116,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyLinkedListTest.givenSearchElementShouldPassLinkedListResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day 14 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="givenSearchElementShouldPassLinkedListResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedListTest.givensearchElemetshouldPassLinkedListResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day 14 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.MyLinkedListTest" />
+      <option name="METHOD_NAME" value="givensearchElemetshouldPassLinkedListResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyLinkedListTest.givenSearchElementShouldPassLinkedListResult" />
+        <item itemvalue="JUnit.MyLinkedListTest.givensearchElemetshouldPassLinkedListResult" />
         <item itemvalue="JUnit.MyLinkedListTest.givenLastElementWhenDeletedShouldPssLinkedListResult" />
         <item itemvalue="JUnit.MyLinkedListTest.givenFirstElementWhenDeletedShouldPassLinkedListResult" />
         <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenInsertingSecondInBetweenShouldPassLinkedListResult" />
-        <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAppendedShouldBeAddedToLast" />
-        <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package com.linkedlist;
+package com.bridgelabz;
 
 public class DisplayMsg {
     public static void main(String[] args) {

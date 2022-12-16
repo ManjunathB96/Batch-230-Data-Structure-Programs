@@ -1,7 +1,7 @@
-package com.linkedlist;
+package com.bridgelabz;
 
 public class MyLinkedList {
-    public   INode tail;
+    public INode tail;
     public INode head;
 
     public MyLinkedList() {

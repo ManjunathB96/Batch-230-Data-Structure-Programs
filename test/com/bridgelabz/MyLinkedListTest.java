@@ -1,4 +1,4 @@
-package com.linkedlist;
+package com.bridgelabz;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -89,5 +89,20 @@ public class MyLinkedListTest {
                 myLinkedList.tail.equals(mySecondNode);
         Assert.assertTrue(result);
 
+    }
+
+    @Test
+    public void givenSearchElementShouldPassLinkedListResult() {
+        MyNode<Integer> myFirstNode = new MyNode<>(56);
+        MyNode<Integer> mySecondNode = new MyNode<>(30);
+        MyNode<Integer> myThirdNode = new MyNode<>(70);
+        MyLinkedList myLinkedList = new MyLinkedList();
+        myLinkedList.add(myFirstNode);
+        myLinkedList.append(mySecondNode);
+        myLinkedList.append(myThirdNode);
+
+        boolean search = myLinkedList.search(myFirstNode,30);
+        System.out.println(search);
+        Assert.assertEquals(30,search);
     }
 }

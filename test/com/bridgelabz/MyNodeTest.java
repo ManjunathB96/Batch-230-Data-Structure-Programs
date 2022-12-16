@@ -1,4 +1,4 @@
-package com.linkedlist;
+package com.bridgelabz;
 
 
 import org.junit.Assert;

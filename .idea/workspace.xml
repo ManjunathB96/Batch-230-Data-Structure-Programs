@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58127ad1-b3e3-4f48-a360-41290209d216" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1be183df82d2962210140091edd7f40a5eb91af9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b15ce69a4ced0b598347b01184384966596ea68" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/bridgelabz/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/bridgelabz/MyLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,22 @@
       <recent name="com.linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyMapNodeTest">
+  <component name="RunManager" selected="JUnit.MyBinaryTreeTest">
+    <configuration name="MyBinaryTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch-230 Data Structure Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bridgelabz" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MyBinaryTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch-230 Data Structure Programs" />
       <extension name="coverage">
@@ -137,28 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Batch-230 Data Structure Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bridgelabz" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MyStackTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyBinaryTreeTest" />
         <item itemvalue="JUnit.MyMapNodeTest" />
         <item itemvalue="JUnit.MyLinkedListTest.searchGivenElementWhenFoundShouldPssLinkedListResult" />
         <item itemvalue="JUnit.MyLinkedListTest.given3NumbersWhenAddedToLinkedShouldBeAddedToTop" />
         <item itemvalue="JUnit.MyMapNodeTest.givenASentenceWhenWordsAreAddedToListShouldReturnWordFrequency" />
-        <item itemvalue="JUnit.MyStackTest" />
       </list>
     </recent_temporary>
   </component>
